@@ -3,3 +3,27 @@
     height:75px;
     border-radius: 50%;
 }
+.FREEPOP{
+    margin-top:10px;
+    text-align:center;
+}
+.FoodItems{
+    width:100%;
+}
+.Reccomended{
+    margin-top:25px;
+    text-align:center;
+}
+.Menu div{
+    text-align:center;
+    margin-top:10px;
+}
+
+.navigation_bars{
+    font-size:20px;
+}
+
+.navigation_bars ul li a i{
+    font-size:36px;
+    margin-right:10px;
+}
